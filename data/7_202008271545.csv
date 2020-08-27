@@ -1,0 +1,2 @@
+id,institution,date_current,date_captured,new_cases_students,new_cases_staff,new_cases_total,new_def_cases,total_cases_students,total_cases_staff,total_cases_total,new_tests,new_positive,new_positive_rate,new_def_tests,total_tests,total_positive,total_positive_rate
+7,North Carolina State University,2020-08-26,2020-08-27 15:45,94,1,95,1,595,46,641,"3,105",325,10.47,7,"5,398",362,6.70
